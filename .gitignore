@@ -1,3 +1,7 @@
 *.iml
+## 忽略子文件夹下的所有.idea文件
+**/.idea
+/out
+**/out
 .idea
-out/
+**/*.iml
